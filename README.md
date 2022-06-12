@@ -25,3 +25,5 @@
     
   </div>
   
+  ![Snake animation](https://github.com/MarioYama7/MarioYama7/blob/output/github-contribution-grid-snake.svg)
+  
