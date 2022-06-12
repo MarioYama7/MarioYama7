@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Mário Yama 😃 / Hi, I am Mário Yama 😎
 
-- 🤓 Estudante de Desenvolvimento de Software / Software Development Student.
+####- 🤓 Estudante de Desenvolvimento de Software / Software Development Student.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
