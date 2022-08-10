@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MarioYama7/Marioyama7/raw/main/gif/header-gifgithub.gif)" alt="Oi, eu sou o Mário">
+  <img src="https://github.com/MarioYama7/GifPerfil/blob/73fea5df79547b949557e12165d26ac641a69ab2/gifgithub.gif" alt="Oi, eu sou o Mário">
 </p>
 
 <div align="center">
